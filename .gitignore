@@ -1,4 +1,12 @@
-# Logs
+node_modules/
+.next/
+.env
+.env.local
+.DS_Store
+.vscode/
+.idea/
+temp.html
+TODO.md# Logs
 logs
 *.log
 npm-debug.log*
